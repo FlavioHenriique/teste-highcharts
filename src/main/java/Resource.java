@@ -31,7 +31,7 @@ public class Resource {
     @Path("/array")
     public String retornaArray() {
 
-        return "NARUTO, DBZ, ONE PIECE, BLEACH";
+        return "SAÚDE,CULTURA,ESPORTES,LAZER,ADMINISTRAÇÃO,EDUCAÇÃO";
 
     }
 }
